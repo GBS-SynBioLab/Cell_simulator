@@ -7,7 +7,7 @@ Integrated development environment for the design of synthetic biological system
 
 Introduction
 --
-Mathematical modeling module includes a software tool for the host aware design of synthetic gene circuits. Host context is implemented based on the coarse-grained mechanistic whole cell model from Weisse, 2015.
+Mathematical modeling module includes a software tool for host aware design of synthetic gene circuits. Host context is implemented based on the coarse-grained mechanistic whole cell model from Weisse, 2015.
 
 
 Documentation
